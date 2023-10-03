@@ -1,4 +1,5 @@
 import modelo.Carrera;
+import org.jooq.DSLContext;
 
 public class CarreraDAO {
     public static <DSLContext> Object[] getCodigoCarreras(DSLContext query) {
