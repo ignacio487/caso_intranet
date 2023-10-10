@@ -29,7 +29,7 @@ public class Carrera {
 		this.codigo = codigo;
 	}
 
-	public Carrera(String nombre, int semestres, String codigo) {
+	public Carrera(String nombre, String semestres, int codigo) {
 		super();
 	}
 }

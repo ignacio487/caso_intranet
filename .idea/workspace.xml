@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="61da511e-94e0-4e8e-9b56-b13e91de2cdc" name="Changes" comment="Caso intranet, desarrollar interfaz grafica que permita registrar y buscar estudiantes por carrera y codigo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VentanaBienvenida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentanaBienvenida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VentanaBusquedaEstudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentanaBusquedaEstudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarreraControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CarreraControlador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VentanaRegistroCarrera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentanaRegistroCarrera.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VentanaRegistroEstudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentanaRegistroEstudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/Carrera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/Carrera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/Estudiante.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696334635018</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Caso intranet, desarrollar interfaz grafica que permita registrar y buscar estudiantes por carrera y codigo">
+      <created>1696975730916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696975730916</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

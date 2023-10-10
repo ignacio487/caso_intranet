@@ -7,7 +7,7 @@ public class Estudiante {
 	private int numeroMatricula;
 	private Carrera carrera;
 
-	public String getNombre() {
+    public String getNombre() {
 		return this.nombre;
 	}
 

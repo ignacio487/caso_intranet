@@ -1,7 +1,7 @@
 import modelo.Carrera;
 import modelo.Package.DBConnector;
 import modelo.Package.DBGenerator;
-import org.jooq.DSLContext
+import org.jooq.DSLContext;
 
 public class CarreraControlador {
     public static boolean añadirCarrera(String nombreCarrera, String codigoCarrera, int cantSemestres) throws ClassNotFoundException {
